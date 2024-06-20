@@ -7,12 +7,12 @@
     "description": "My Progressive Web Application",
     "icons": [
         {
-            "src": "favicon.png",
+            "src": "icon-192x192.png",
             "type": "image/png",
             "sizes": "192x192"
         },
         {
-            "src": "favicon.png",
+            "src": "icon-512x512.png",
             "type": "image/png",
             "sizes": "512x512"
         }
